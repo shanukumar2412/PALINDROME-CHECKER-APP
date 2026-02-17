@@ -1,3 +1,4 @@
+// UC2: Hardcoded Palindrome Implementation
 
 public class UseCase2PalindromeCheckerApp {
 
