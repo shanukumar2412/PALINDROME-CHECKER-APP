@@ -1,0 +1,25 @@
+// UC3 : Palindrome Check Using String Reverse
+
+public class UC4 {
+
+    public static void main(String[] args) {
+
+        // Original string
+        String original = "radar";
+
+        // Variable for reversed string
+        String reversed = "";
+
+        // Reverse string using for loop
+        for (int i = original.length() - 1; i >= 0; i--) {
+            reversed = reversed + original.charAt(i);
+        }
+
+        // Compare original and reversed
+        if (original.equals(reversed)) {
+            System.out.println(original + " is a Palindrome");
+        } else {
+            System.out.println(original + " is NOT a Palindrome");
+        }
+    }
+}

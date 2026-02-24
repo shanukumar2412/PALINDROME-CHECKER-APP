@@ -1,0 +1,20 @@
+RA2412701010005
+        .idea
+Palindrome-Checker
+        .idea
+        src
+UC2.java
+UC3.java
+UC4.java
+UC5.java
+UC6.java
+UC7.java
+UC8.java
+UC9.java
+UC10.java
+UC11.java
+UC12.java
+UC13.java
+UseCase1PalindromeCheckerApp.java
+        .gitignore
+Palindrome Checker.iml
